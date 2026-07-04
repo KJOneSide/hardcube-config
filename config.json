@@ -7,7 +7,7 @@
   "news": [
     { "type": "title", "text": "🎉 novedades" },
     { "type": "text", "text": "Descripción." },
-    { "type": "list", "items": ["Punto 1", "Punto 2"] }
+    { "type": "list", "items": ["Nuevo Background Crossplay (posible bug en movil)", "Punto 2"] }
   ],
   "rules": [
     { "type": "title", "text": "📜 Reglas" },
