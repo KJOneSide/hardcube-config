@@ -5,12 +5,12 @@
   "serverIp": "play.hardcube.net",
   "serverPort": 19132,
   "news": [
-    { "type": "title", "text": "🎉 Novedad" },
+    { "type": "title", "text": "🎉 novedades" },
     { "type": "text", "text": "Descripción." },
     { "type": "list", "items": ["Punto 1", "Punto 2"] }
   ],
   "rules": [
     { "type": "title", "text": "📜 Reglas" },
-    { "type": "numbered", "items": ["Regla 1", "Regla 2"] }
+    { "type": "numbered", "items": ["Vayan a dormir bld", "Regla 2"] }
   ]
 }
