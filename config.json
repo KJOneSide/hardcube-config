@@ -1,6 +1,6 @@
 {
   "launcherName": "HardCube",
-  "background": "https://raw.githubusercontent.com/KJOneSide/hardcube-config/refs/heads/main/background.jpg?token=GHSAT0AAAAAAEBWTKUOCYWO55QD64HS7N442SIOASA",
+  "background": "https://raw.githubusercontent.com/KJOneSide/hardcube-config/refs/heads/main/background.jpg",
   "serverName": "HardCube",
   "serverIp": "play.hardcube.net",
   "serverPort": 19132,
