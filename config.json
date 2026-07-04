@@ -1,5 +1,5 @@
 {
-  "launcherName": "HardCube 2",
+  "launcherName": "HardCube",
   "background": "https://raw.githubusercontent.com/KJOneSide/hardcube-config/refs/heads/main/background.jpg",
   "serverName": "HardCube",
   "serverIp": "play.hardcube.net",
@@ -11,6 +11,6 @@
   ],
   "rules": [
     { "type": "title", "text": "📜 Reglas" },
-    { "type": "numbered", "items": ["Vayan a dormir bld", "Regla 2"] }
+    { "type": "numbered", "items": ["Regla 1", "Regla 2"] }
   ]
 }
