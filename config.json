@@ -1,0 +1,16 @@
+{
+  "launcherName": "HardCube",
+  "background": "https://raw.githubusercontent.com/TU_USUARIO/hardcube-config/main/background.jpg",
+  "serverName": "HardCube",
+  "serverIp": "play.hardcube.net",
+  "serverPort": 19132,
+  "news": [
+    { "type": "title", "text": "🎉 Novedad" },
+    { "type": "text", "text": "Descripción." },
+    { "type": "list", "items": ["Punto 1", "Punto 2"] }
+  ],
+  "rules": [
+    { "type": "title", "text": "📜 Reglas" },
+    { "type": "numbered", "items": ["Regla 1", "Regla 2"] }
+  ]
+}
