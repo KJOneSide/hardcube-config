@@ -2,12 +2,12 @@
   "launcherName": "OneSide Studios Client",
   "background": "https://raw.githubusercontent.com/KJOneSide/hardcube-config/refs/heads/main/background.jpg",
   "serverName": "HardCube",
-  "serverIp": "play.hardcube.net",
-  "serverPort": 19132,
+  "serverIp": "HardCube-OneSide.aternos.me",
+  "serverPort": 57068,
   "news": [
     { "type": "title", "text": "🎉 novedades" },
     { "type": "text", "text": "Descripción." },
-    { "type": "list", "items": ["Nuevo Background Crossplay (posible bug en movil)", "Punto 2"] }
+    { "type": "list", "items": [ "Boton de Jugar ya te mete al server","Nuevo Background Crossplay (posible bug en movil)"] }
   ],
   "rules": [
     { "type": "title", "text": "📜 Reglas" },
